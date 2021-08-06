@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/88326377/128458517-5e97c6e1-e1a8-4a99-9c2d-62997f3ecc48.png)
 
 2. Records that data in a struct [Code Snippet]
+
 ![image](https://user-images.githubusercontent.com/88326377/128458555-24269f3b-98be-480f-a86b-15024e99c256.png)
 
 ![image](https://user-images.githubusercontent.com/88326377/128458575-a1c4152f-3e1a-4768-ba05-86be67a41506.png)
