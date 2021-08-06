@@ -5,9 +5,8 @@
 1. Fetches Current Data Price From Any Oracle [Code Snippet]
 ![image](https://user-images.githubusercontent.com/88326377/128458517-5e97c6e1-e1a8-4a99-9c2d-62997f3ecc48.png)
 
-
 2. Records that data in a struct [Code Snippet]
-![image](https://user-images.githubusercontent.com/88326377/128458555-24269f3b-98be-480f-a86b-15024e99c256.png)
+![image](https://user-images.githubusercontent.com/88326377/128459710-7a0b11da-5c4c-44b2-9487-404a99389515.png)
 
 3. A function to calculate mean of the prices stored [Code Snippet]
 ![image](https://user-images.githubusercontent.com/88326377/128458595-7602aca8-cac8-4a98-8ab1-b27911b31201.png)
