@@ -16,10 +16,5 @@
 ![image](https://user-images.githubusercontent.com/88326377/128458617-f89c9aa6-2e6f-4659-a41f-760020702902.png)
 
 5. Also write tests for these 
-● Deployed contracts
-
-![image](https://user-images.githubusercontent.com/88326377/128458680-bc033745-3d59-41f6-9cf8-64c1844b1808.png)
-
-● Unit testing
 ![image](https://user-images.githubusercontent.com/88326377/128458695-81f8c69d-6a61-4849-81a0-b9cf69beb06b.png)
 
