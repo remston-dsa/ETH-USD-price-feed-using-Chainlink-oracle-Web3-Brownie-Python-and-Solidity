@@ -7,7 +7,7 @@
 
 2. Records that data in a struct [Code Snippet]
 ![image](https://user-images.githubusercontent.com/88326377/128458555-24269f3b-98be-480f-a86b-15024e99c256.png)
-# ---------------------------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/88326377/128458575-a1c4152f-3e1a-4768-ba05-86be67a41506.png)
 
 3. A function to calculate mean of the prices stored [Code Snippet]
@@ -17,7 +17,8 @@
 ![image](https://user-images.githubusercontent.com/88326377/128458617-f89c9aa6-2e6f-4659-a41f-760020702902.png)
 
 5. Also write tests for these 
-6. a. Deployed contracts 
+a. Deployed contracts 
+
 ![image](https://user-images.githubusercontent.com/88326377/128458680-bc033745-3d59-41f6-9cf8-64c1844b1808.png)
 
 b. Unit testing
