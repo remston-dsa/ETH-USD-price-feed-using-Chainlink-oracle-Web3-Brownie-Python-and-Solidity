@@ -8,7 +8,6 @@
 
 2. Records that data in a struct [Code Snippet]
 ![image](https://user-images.githubusercontent.com/88326377/128458555-24269f3b-98be-480f-a86b-15024e99c256.png)
-![image](https://user-images.githubusercontent.com/88326377/128458575-a1c4152f-3e1a-4768-ba05-86be67a41506.png)
 
 3. A function to calculate mean of the prices stored [Code Snippet]
 ![image](https://user-images.githubusercontent.com/88326377/128458595-7602aca8-cac8-4a98-8ab1-b27911b31201.png)
