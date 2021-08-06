@@ -1,7 +1,8 @@
 # ETH-USD-price-feed-using-Chainlink-oracle-Web3-Brownie-Python-and-Solidity
-● Chainlink Price Feeds are the quickest way to connect smart contracts to the real-world market prices of assets. 
-● The latest price of Ethereum (ETH) inside smart contracts is fetched using the ETH/USD Price Feed on the Kovan testnet. 
-● To consume price data, your smart contract should reference AggregatorV3Interface, which deϐines the external functions implemented by Price Feeds.
+1. Chainlink Price Feeds are the quickest way to connect smart contracts to the real-world market prices of assets.
+2. The latest price of Ethereum (ETH) inside smart contracts is fetched using the ETH/USD Price Feed on the Kovan testnet.
+3.  To consume price data, your smart contract should reference AggregatorV3Interface, which deϐines the external functions implemented by Price Feeds.
+
 1. Fetches Current Data Price From Any Oracle [Code Snippet]
 ![image](https://user-images.githubusercontent.com/88326377/128458517-5e97c6e1-e1a8-4a99-9c2d-62997f3ecc48.png)
 
